@@ -79,7 +79,37 @@ pengingat_jadwal_kuliah/
 ```
 
 ---
+## Tampilan Login Di Website Nya
+---
+<img width="1919" height="993" alt="image" src="https://github.com/user-attachments/assets/8d2bbc91-7067-4958-9934-7c6edeb9ce96" />
 
+---
+## Tampilan Register Di Website Nya
+---
+<img width="1919" height="996" alt="image" src="https://github.com/user-attachments/assets/d384988c-7e03-4b95-8d04-558a3ec8f198" />
+
+---
+## Tampilan Dashboard Di Website Nya
+---
+
+<img width="1919" height="1000" alt="image" src="https://github.com/user-attachments/assets/7619f7cc-a6aa-45d3-b875-767cdad38f11" />
+
+---
+## Tampilan Jadwal Mata Kuliah Saya Sesuai Ecampus Di Website
+---
+<img width="1919" height="995" alt="image" src="https://github.com/user-attachments/assets/f3ed800d-3f99-4103-858d-a909422007ef" />
+
+---
+## Tampilan Contoh Tugas Di Website Nya
+---
+<img width="1919" height="989" alt="image" src="https://github.com/user-attachments/assets/98828a8b-185e-4db1-8c68-5f16bde9f6bd" />
+
+---
+## Tampilan Pengingat Di Website Nya
+---
+<img width="1911" height="1000" alt="image" src="https://github.com/user-attachments/assets/88cc0951-f833-471d-bae3-53e12cf26d73" />
+
+---
 ## 🧠 Perancangan Sistem
 
 * **Use Case Diagram** digunakan untuk menggambarkan interaksi pengguna dengan sistem.
@@ -101,9 +131,32 @@ Pengujian sistem dilakukan dengan memastikan:
 
 ## 📚 Referensi
 
-* Suryani, N., & Rahman, A. (2022). *Penerapan Model Prototyping dalam Pengembangan Aplikasi Pengingat Jadwal Kuliah*.
-* Rosa, A. S., & Shalahuddin, M. (2018). *Rekayasa Perangkat Lunak: Terstruktur dan Berorientasi Objek*.
-* Pressman, R. S., & Maxim, B. R. (2020). *Software Engineering: A Practitioner’s Approach*.
+*Suryani, N., & Rahman, A. (2022).
+Penerapan model prototyping dalam pengembangan aplikasi pengingat jadwal kuliah.
+Jurnal Komputer dan Informatika (JUKI), 5(2), 120–128.*
+
+*Rosa, A. S., & Shalahuddin, M. (2018).
+Rekayasa perangkat lunak: Terstruktur dan berorientasi objek.
+Informatika Bandung.*
+*Basri, R. J., Anraeni, S., & Irawati, I. (2020).
+Perancangan aplikasi pengingat jadwal perkuliahan menggunakan push notification.
+Buletin Sistem Informasi dan Teknologi Informasi, 1(2), 45–52.*
+
+*Irawan, A. D., & Utami, W. S. (2019).
+Aplikasi reminder jadwal kuliah dan tugas mahasiswa berbasis Android.
+Jurnal Informatika, 4(1), 23–30.*
+
+*Zahwaa, S. A., Nugroho, A., & Putri, R. A. (2021).
+Analisis dan perancangan aplikasi pengingat jadwal kuliah mahasiswa.
+Jurnal Ilmu Komputer dan Sistem Informasi, 2(1), 1–10.*
+
+*Dewi, F. K. S., Pratama, R., & Hidayat, A. (2020).
+Rancang bangun aplikasi pengingat kegiatan akademik berbasis mobile.
+Jurnal Teknologi Informasi, 5(2), 89–98.*
+
+*Ilhadi, V., Ardiansyah, D., & Muthmainnah. (2021).
+Aplikasi reminder jadwal kegiatan berbasis mobile.
+Jurnal Sistem Informasi, 7(1), 15–24.*
 
 ---
 
@@ -112,11 +165,4 @@ Pengujian sistem dilakukan dengan memastikan:
 Aplikasi ini dibuat untuk keperluan akademik dan sebagai implementasi konsep rekayasa perangkat lunak dalam bentuk aplikasi pengingat jadwal kuliah berbasis web.
 
 ---
-
-Kalau mau, aku bisa:
-
-* 🔹 Pendekin lagi (versi README singkat)
-* 🔹 Bikin versi **formal dosen banget**
-* 🔹 Sesuaikan nama folder **100% sama repo kamu**
-
-Tinggal bilang 👍
+## SEKIAN TERIMAKASIH BANYAK KEPADA DOSEN BU Karina Imelda, S. Kom., M.Kom ATAS PENGAJARAN NYA DI KELAS KAMI SELAMA SEMESTER 3 BERJALAN, TUGAS SAYA INI DAN SEBELUM NYA YANG SUDAH SAYA KUMPULKAN MUNGKIN BANYAK KEKURANGAN NYA TAPI SAYA TETEP TERUS BELAJAR DAN TETAP MENGERJAKAN TUGAS DARI BU Karina Imelda, S. Kom., M.Kom SEBAGAI BENTUK MENGHORMATI DAN ILMU ILMU BARU YANG SAYA DAPATKAN.... o7
